@@ -1,41 +1,27 @@
-# CMSC 23 Week 9: User Authentication using Firebase
+# Week #: Topic
 
-## Getting Started
+**Name:** Your Name <br/>
+**Section:** U-#L <br/>
+**Student number:** 2018 - 12345 <br/>
 
-Please follow the following steps:
+## Code Description
 
-- Fork this repository
-- Clone the forked repository
-- Set up Firebase and Cloud Firestore
+Describe what your code does here
 
-## Introduction
+## Things you did in the code
 
-This is a simple todo app that's connected to a Firebase Cloud Firestore. It can perform user authentication using Firebase.
+Describe what you did here
 
-## Folder Structure
+## Challenges encountered
 
-```
-lib
-├───api
-│   └───firebase_auth_api.dart*
-│   └───firebase_todo_api.dart
-├───models
-│   └───todo_model.dart
-├───pages
-│   ├───home_page.dart
-│   └───modal_todo.dart
-│   └───signin_page.dart
-│   └───signup_page.dart
-│   └───todo_page.dart
-│   └───user_details_page.dart
-├───providers
-│   └───auth_provider.dart*
-│   └───todo_provider.dart
-└───main.dart
+Describe your challenges here
 
-* - to be added later
-```
+## Commit Log
 
-- Models - contains the data model used
-- Pages - contains the pages/widgets used
-- Providers - contains the Todo provider that contains the data and method logic
+1. Initial commit
+2.
+
+## References
+
+- link to the reference
+- another link
